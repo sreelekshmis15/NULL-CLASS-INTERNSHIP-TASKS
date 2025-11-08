@@ -1,2 +1,3 @@
 # Task 4: Domain Expert Chatbot
 Minimal GUI and paper search scaffolding. Replace with arXiv dataset, build embeddings, and use an LLM for explanations.
+MedQBot is a domain-specific question-answering chatbot trained on the MedQuAD dataset to provide authoritative, retrieval-grounded medical answers. It uses a semantic search retrieval layer to find relevant Q&A pairs, performs lightweight medical entity recognition to highlight symptoms, diseases, and treatments, and serves a simple Streamlit UI for safe question submission and answer display. The system emphasizes traceability (showing source Q&A), basic entity tagging, and a retrieval-first design to avoid hallucinations.

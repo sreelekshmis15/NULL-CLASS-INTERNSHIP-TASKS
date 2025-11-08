@@ -1,3 +1,2 @@
-# Task 1: Dynamic Knowledge Expansion
-
-This task contains a minimal scaffold for adding new documents to a knowledge base and a stubbed query function. Replace the stubbed retrieval with embeddings + vector DB (FAISS, Milvus) when running locally.
+# Task 4: Domain Expert Chatbot
+Minimal GUI and paper search scaffolding. Replace with arXiv dataset, build embeddings, and use an LLM for explanations.

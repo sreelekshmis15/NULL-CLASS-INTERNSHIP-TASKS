@@ -1,3 +1,2 @@
-# Task 1: Dynamic Knowledge Expansion
-
-This task contains a minimal scaffold for adding new documents to a knowledge base and a stubbed query function. Replace the stubbed retrieval with embeddings + vector DB (FAISS, Milvus) when running locally.
+# Task 3: Medical Q&A Chatbot
+This folder contains a minimal Streamlit GUI and a local FAQ-based fallback JSON. Replace the simple retrieval with a proper medical dataset and a retrieval+LLM pipeline for full functionality.

@@ -1,1 +1,2 @@
 # NULL-CLASS-INTERNSHIP-TASKS
+The null class project involves developing a multi-modal chatbot that handles text and image content using Google Palm and Gemini AI. The chatbot aims to understand image inputs, generate relevant images, and integrate visual and textual information. It will also incorporate dynamic knowledge base expansion, sentiment analysis, and multi-language support for improved user experience.
